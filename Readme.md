@@ -3,6 +3,10 @@
 Aplicativo simples que gera uma string para configuração de servidores Mikrotik RouterOS. Ajuste o código fonte para suas confgurações de bust.
 O programa pode ser facilmente recompilado utilizando o Netbeans IDE e JDK.
 
+- - -
+
+Simple application that generates a string for setting up Mikrotik RouterOS servers.
+
 ## SCREENSHOTS
 <p align="center">
   <img alt="Calculadora de Bust" src="https://github.com/RenanGBarreto/calculadordeburst/raw/master/screenshots/screenshot-1.png">
