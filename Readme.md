@@ -7,6 +7,9 @@ O programa pode ser facilmente recompilado utilizando o Netbeans IDE e JDK.
 
 Simple application that generates a string for setting up Mikrotik RouterOS servers.
 
+## DATA DE DESENVOLVIMENTO
+Jul/2011 – Jul/2011
+
 ## SCREENSHOTS
 <p align="center">
   <img alt="Calculadora de Bust" src="https://github.com/RenanGBarreto/calculadordeburst/raw/master/screenshots/screenshot-1.png">
@@ -27,7 +30,7 @@ Para usar o Calculador de Burst você precisará ter um computador pelo menos as
 
 ## LICENSE
 
-Copyright (C) 2012 Renan Gomes Barreto
+Copyright (C) 2011 Renan Gomes Barreto
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
